@@ -28,7 +28,7 @@ Before you begin, ensure you have the following installed:
 1. **Clone the Repository**:
    ```bash
    git clone 
-   cd eks-terraform-project
+   cd EKS-ArgoCD-AWS-Lb-Controller-Terraform
 
 2. **Deploy VPC and EC2: Run the following commands to deploy the VPC and an EC2 instance**:
    ```bash
